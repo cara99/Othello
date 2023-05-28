@@ -1,7 +1,5 @@
-# Author: Keirah Jefferson
-# GitHub: cara99
-# Date: 5/19/22023
-# Description: A program that allows two people to play Othello
+# Personal Project that is an implementation of Othello, the board game
+# Originally an assignment for a class with some added features and testing
 
 from run_game import *
 class Player:
