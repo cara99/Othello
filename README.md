@@ -18,4 +18,4 @@ White piece: O
 Empty space: . (dot)
 Each position on the board could be represented by a (row, column) pair. For example, at the beginning, white pieces are at position (4,4) and (5,5) and black pieces are at (4,5) and (5,4). 
 
-# In order to play, run run_game.py. Accepted inputs for moves will be provided. Enter moves in a (Y,X) format. 
+# In order to play, run run_game.py. Accepted inputs for moves will be provided. Enter moves in a (row,column) format. 
